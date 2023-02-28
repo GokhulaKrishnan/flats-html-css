@@ -1,0 +1,109 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Bree Serif:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.main-container1 {
+  background-image: url("https://assets.ccbp.in/frontend/static-website/flats-list-bg.png");
+  background-size: cover;
+  height: 100vh;
+}
+
+.bottom-container1 {
+  height: 40vh;
+  background-color: white;
+  text-align: center;
+  padding-top: 40px;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+}
+
+.head1 {
+  color: #f19116;
+  font-size: 30px;
+  font-family: "Bree Serif";
+}
+
+.para1 {
+  color: #7b8794;
+  font-size: 17px;
+  font-family: "Bree Serif";
+}
+
+.btn1 {
+  background-color: #f19116;
+  color: #ffffff;
+  margin: 20px;
+}
+.imagee2 {
+  width: 20vw;
+  height: 32vh;
+}
+.boxes2 {
+  width: 100%;
+  margin-bottom: 13px;
+  margin-top: 13px;
+  /* border-radius: 20px; */
+}
+.text-container2 {
+  padding: 15px;
+  font-family: "Bree Serif";
+  background-color: #ffffff;
+  border-top-right-radius: 7px;
+  border-bottom-right-radius: 7px;
+  height: 32vh;
+}
+.headbox-2 {
+  font-size: 30px;
+  font-weight: bold;
+}
+.parabox-2 {
+  color: #7b8794;
+  width: 100%;
+}
+.main-container2 {
+  background-color: #222222;
+  padding: 20px;
+}
+.head2 {
+  font-family: "Bree Serif";
+  color: #f19116;
+  font-size: 30px;
+}
+.btn2 {
+  width: 25vw;
+  margin-top: 30px;
+  background-color: #f19116;
+  color: white;
+}
+.imagee3 {
+  height: 50vh;
+  width: 100vw;
+}
+.bottom-container3 {
+  background-color: #222222;
+  font-family: "Bree Serif";
+  padding: 20px;
+}
+.parabox3 {
+  color: #ffffff;
+  /* padding-top: 20px; */
+}
+.icon-imagee {
+  height: 30px;
+}
+.spz {
+  color: #ffffff;
+  padding-left: 15px;
+}
+.horizontal {
+  border-style: solid;
+  border-color: white;
+}
+.btnscreen {
+  margin: 10px;
+  width: 100px;
+  background-color: #f19116;
+  color: white;
+}
+.btns {
+  padding-top: 40px;
+  padding-bottom: 50px;
+}
